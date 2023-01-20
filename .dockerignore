@@ -1,0 +1,11 @@
+node_modules
+coverage
+target
+*.log
+*.md
+.git
+.gitignore
+dist
+*.log
+*.md
+.vscode
